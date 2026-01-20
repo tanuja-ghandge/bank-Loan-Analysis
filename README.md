@@ -39,5 +39,3 @@ List the key technologies used to build dashboard.
      
   E) Data Modeling
      Relationships created between tables to enable accurate filtering and analysis.
-
-6.    
