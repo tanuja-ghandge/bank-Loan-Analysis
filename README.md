@@ -10,6 +10,7 @@
 3.Purpose of the dashboard
   The main purpose of this dashboard is to:
    a)Monitor overall loan performance and growth trends
+   
    b)Analyze customer behavior and repayment patterns
    c)Identify high-risk loan segments based on grades, states, and loan status
    d)Support data-driven decision-making for loan approvals and risk management
