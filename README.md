@@ -39,3 +39,16 @@ List the key technologies used to build dashboard.
      
   E) Data Modeling
      Relationships created between tables to enable accurate filtering and analysis.
+
+
+ 5.Feature & Highlight
+   a) Problem Statement
+       Banks need to analyze loan performance to understand:
+            How much loan amount is disbursed
+            Customer repayment behavior
+            Risk based on loan grade, sub-grade, and verification status
+            Trends over time (year-wise loan disbursement)
+            However, raw loan data is complex and not easy to interpret for decision-making.
+
+
+  b) Goal of DAshboare
