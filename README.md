@@ -1,6 +1,6 @@
  bank-Loan-Analysis
 
- 1. Project Title / Headline
+1. Project Title / Headline
     Bank Loan Performance, Risk & Repayment Insight
 
  2.Dashboard Discription
