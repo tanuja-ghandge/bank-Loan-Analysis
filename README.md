@@ -105,5 +105,5 @@ d) Business Impact & Insights
 
 6. Screenshort/ Demos
 
-   Show what dashboard look like. -
+   Show what dashboard look like. - https://github.com/tanuja-ghandge/bank-Loan-Analysis/blob/main/BankLoanAnalysis.png
 
