@@ -102,3 +102,8 @@ d) Business Impact & Insights
     Adjusting interest rates for risky grades
 
     Dashboard supports credit risk management and policy decisions
+
+6. Screenshort/ Demos
+
+   Show what dashboard look like. -
+
