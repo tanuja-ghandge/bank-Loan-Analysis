@@ -43,7 +43,7 @@ List the key technologies used to build dashboard.
 
  5.Feature & Highlight 
  
-   a) Problem Statement
+     a) Problem Statement
    
        Banks need to analyze loan performance to understand:
        
@@ -58,50 +58,50 @@ List the key technologies used to build dashboard.
             However, raw loan data is complex and not easy to interpret for decision-making.
 
 
-  b) Goal of Dasboard
-     To provide a clear overview of bank loan performance across years.
+      b) Goal of Dasboard
+           To provide a clear overview of bank loan performance across years.
      
-     To analyze total loan amount, number of loans, and total customers.
+           To analyze total loan amount, number of loans, and total customers.
      
-     To understand loan trends over time (year-wise growth).
+           To understand loan trends over time (year-wise growth).
      
-     To compare loan status (Charged Off, Current, Fully Paid).
+           To compare loan status (Charged Off, Current, Fully Paid).
      
-     To evaluate customer risk and credit quality using grade and sub-grade.
+           To evaluate customer risk and credit quality using grade and sub-grade.
      
-     To analyze state-wise loan distribution.
+           To analyze state-wise loan distribution.
      
-     To track average interest rate and its impact on loans.
+           To track average interest rate and its impact on loans.
 
-c) Key Visual
+       c) Key Visual
 
-    KPI Cards show key metrics such as Total Loan Amount, Total Customers, Loan Count, and Average Interest Rate for quick insights.
+           KPI Cards show key metrics such as Total Loan Amount, Total Customers, Loan Count, and Average Interest Rate for quick insights.
     
-    Line Chart (Year-wise Loan Amount) displays the trend of total loan amount over the years, showing growth in lending.
+           Line Chart (Year-wise Loan Amount) displays the trend of total loan amount over the years, showing growth in lending.
     
-    Donut Chart (Loan Payment by Verification Status) highlights the distribution of loans based on verification status.
+           Donut Chart (Loan Payment by Verification Status) highlights the distribution of loans based on verification status.
     
-    Bar Chart (State-wise Loan Status) compares loan count across states with different loan statuses (Charged Off, Current, Fully Paid).
+           Bar Chart (State-wise Loan Status) compares loan count across states with different loan statuses (Charged Off, Current, Fully Paid).
     
-    Bar Chart (Grade & Sub-grade Analysis) shows revolving balance distribution by loan grade and sub-grade, helping assess credit risk.
+           Bar Chart (Grade & Sub-grade Analysis) shows revolving balance distribution by loan grade and sub-grade, helping assess credit risk.
     
-    Column Chart (Home Ownership vs Year) illustrates loan count by year and home ownership type.
+           Column Chart (Home Ownership vs Year) illustrates loan count by year and home ownership type.
 
-d) Business Impact & Insights
+     d) Business Impact & Insights
 
-    Verified customers show better repayment behavior
+            Verified customers show better repayment behavior
 
-    Lower grade loans (D, E, F, G) have higher risk
+            Lower grade loans (D, E, F, G) have higher risk
 
-    Loan disbursement has increased year-by-year
+            Loan disbursement has increased year-by-year
 
-    Bank can reduce default risk by:
+            Bank can reduce default risk by:
 
-    Focusing on verified applicants
+            Focusing on verified applicants
 
-    Adjusting interest rates for risky grades
+            Adjusting interest rates for risky grades
 
-    Dashboard supports credit risk management and policy decisions
+            Dashboard supports credit risk management and policy decisions
 
 6. Screenshort/ Demos
 
