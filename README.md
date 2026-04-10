@@ -7,7 +7,7 @@
    It enables users to quickly understand how loans are distributed, how customers are performing in terms of repayment, and where potential credit risks exist.   
 
 ### 3. Purpose of the dashboard
-  The main purpose of this dashboard is to:
+###### The main purpose of this dashboard is to:
   
       a) Monitor overall loan performance and growth trends
    
@@ -22,7 +22,7 @@
      f) Provide management with a single, interactive view of loan insights
 
 ### 4. Tech Stack
-List the key technologies used to build dashboard.
+###### List the key technologies used to build dashboard.
 
     A) Power BI
      Used for building interactive dashboards, data modeling, DAX measures, and visual analytics.
@@ -44,7 +44,7 @@ List the key technologies used to build dashboard.
  
      a) Problem Statement
    
-       Banks need to analyze loan performance to understand:
+           Banks need to analyze loan performance to understand:
        
             How much loan amount is disbursed
             
