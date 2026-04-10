@@ -37,7 +37,7 @@ List the key technologies used to build dashboard.
     D) Microsoft Excel / CSV
      Used as the data source for storing and importing bank loan datasets.
      
-  E) Data Modeling
+    E) Data Modeling
      Relationships created between tables to enable accurate filtering and analysis.
 
 
