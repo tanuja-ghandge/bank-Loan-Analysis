@@ -25,16 +25,16 @@
 4. Tech Stack
 List the key technologies used to build dashboard.
 
-  A) Power BI
+    A) Power BI
      Used for building interactive dashboards, data modeling, DAX measures, and visual analytics.
      
-  B) DAX (Data Analysis Expressions)
+    B) DAX (Data Analysis Expressions)
      Used to create calculated measures such as total loan amount, loan count, average interest rate, and KPIs.
      
-  C) Power Query (M Language)
+    C) Power Query (M Language)
      Used for data cleaning, transformation, and preparation before analysis.
      
-  D) Microsoft Excel / CSV
+    D) Microsoft Excel / CSV
      Used as the data source for storing and importing bank loan datasets.
      
   E) Data Modeling
