@@ -24,7 +24,7 @@
 ### 4. Tech Stack
 ###### List the key technologies used to build dashboard.
 
-    A) Power BI
+   A) Power BI
      Used for building interactive dashboards, data modeling, DAX measures, and visual analytics.
      
     B) DAX (Data Analysis Expressions)
