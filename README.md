@@ -2,11 +2,11 @@
 ### 1. Project Title / Headline
     Bank Loan Performance, Risk & Repayment Insight
 
-### 2.Dashboard Discription
+### 2. Dashboard Discription
    The Bank Loan Analysis Dashboard provides a comprehensive overview of a bank’s loan portfolio by analyzing key metrics such as total loan amount, number of customers, loan count, interest rates, and repayment status. The dashboard visually presents loan performance trends over time and breaks down data by state, loan     grade, verification status, and home ownership.
    It enables users to quickly understand how loans are distributed, how customers are performing in terms of repayment, and where potential credit risks exist.   
 
-### 3.Purpose of the dashboard
+### 3. Purpose of the dashboard
   The main purpose of this dashboard is to:
   
       a) Monitor overall loan performance and growth trends
@@ -40,7 +40,7 @@ List the key technologies used to build dashboard.
      Relationships created between tables to enable accurate filtering and analysis.
 
 
- ### 5.Feature & Highlight 
+ ### 5. Feature & Highlight 
  
      a) Problem Statement
    
